@@ -11,5 +11,8 @@ def shape(object):
     enabled = arg
     
 def circle(shape):
+  #Assignment to :
+  #goal,1.update the init function to run the old function, and to store a radius
+  #     2.make a new method for display, that creates a circle in the pygame engine
   
 
