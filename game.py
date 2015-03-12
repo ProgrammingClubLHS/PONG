@@ -12,7 +12,7 @@ def shape(object):
     
 def circle(shape):
   #Assignment to :
-  #goal,1.update the init function to run the old function, and to store a radius
+  #goal,1.update the init function to run the old function, and to store a radius, and an x and y
   #     2.make a new method for display, that creates a circle in the pygame engine
   
 
