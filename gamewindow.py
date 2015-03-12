@@ -27,6 +27,11 @@ while run_me:
   #limit the framerate
   clock.tick(fps_limit)
   
+  #our new code
+  for item in game_objects:
+    item.update()
+    item.display()
+  
   for event in pygame.event.get():
     if event.type == pygame.QUIT:
       run_me = False
