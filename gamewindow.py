@@ -30,6 +30,8 @@ while run_me:
   #our new code
   for item in game_objects:
     item.update()
+  for item in game_objects:
+    #add fancy collision code here
     item.display()
   
   for event in pygame.event.get():
