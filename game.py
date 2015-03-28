@@ -11,8 +11,9 @@ def shape(object):
     enabled = arg
     
 def circle(shape):
-  #Assignment to :
-  #goal,1.update the init function to run the old function, and to store a radius, and an x and y
-  #     2.make a new method for display, that creates a circle in the pygame engine
+  #Assignment #1 Update the init function to 1. run the old function, and 2. accept and store a radius, and an x position and y positon(in that order).
+  #Assignment #2 Make a new method for display, that creates a corresponding circle in the pygame engine.
   
-
+def rectangle(shape):
+  #Assignment #3 Update the init function to 1. run the old function, and 2,  accept and store a width, diameter, and an x position and y postion(in that order)
+  #Assignment #4 make a new method for display, that creates the corresponding rectangle in the pygame engine.
