@@ -3,4 +3,4 @@ import game.py
 
 def ball(circle):
   #Assignment #5 add a new init function that asks for a velocity, and a direction(only four options) and runs the old function
-  #Assignment #6 add a new update function that changes its position
+  #Assignment #6 add a new update function that changes its position and then runs the old update
